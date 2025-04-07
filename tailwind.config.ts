@@ -1,6 +1,10 @@
+//table configuration
 import type { Config } from "tailwindcss";
 
 export default {
+
+  darkMode:['selector', '[data-theme="dark"]'],
+
   content: [
     "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
@@ -9,8 +13,9 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        'ig-red': "var(--red)",
+        'ig-orange': "var(--orange)",
+        'ig-pink': "var(--pink)",
       },
     },
   },
