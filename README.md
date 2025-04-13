@@ -1,3 +1,5 @@
+🚀 This Instagram-clone project was inspired by a tutorial I followed. Check it out here if you're curious: [Tutorial Link](https://www.youtube.com/watch?v=D6tryXaC950&list=LL&index=3).
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app) using Tailwind CSS, React, and the Pinata API for file uploads.
 
 ## Getting Started
